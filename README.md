@@ -1,6 +1,6 @@
 # MiniURL
 
-A toy project. See more: <link>
+A toy project. See more: https://www.kunalmodi.me/activity/building-a-url-shortener-in-java
 
 ### Running
 
